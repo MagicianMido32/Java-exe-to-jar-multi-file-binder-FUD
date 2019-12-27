@@ -1,0 +1,18 @@
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\bin\Release\Java Binder Class.exe
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\bin\Release\Java Binder Class.pdb
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\bin\Release\Java Binder Class.xml
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\obj\x86\Release\Java_Binder_Class.Form1.resources
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\obj\x86\Release\Java_Binder_Class.Resources.resources
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\obj\x86\Release\Java Binder Class.vbproj.GenerateResource.Cache
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\obj\x86\Release\Java Binder Class.exe
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\obj\x86\Release\Java Binder Class.xml
+C:\Users\medot\Desktop\Java Binder Class\Java Binder Class\obj\x86\Release\Java Binder Class.pdb
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\obj\x86\Release\Java Binder Class.exe
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\obj\x86\Release\Java Binder Class.xml
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\obj\x86\Release\Java Binder Class.pdb
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\bin\Release\Java Binder Class.exe
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\bin\Release\Java Binder Class.pdb
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\bin\Release\Java Binder Class.xml
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\obj\x86\Release\Java_Binder_Class.Form1.resources
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\obj\x86\Release\Java_Binder_Class.Resources.resources
+D:\3Programming\HTGE\Java Binder Class\Java Binder Class\obj\x86\Release\Java Binder Class.vbproj.GenerateResource.Cache
