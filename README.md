@@ -7,3 +7,8 @@ The result is FUD.
 Important: your binded-files are going to be dropped as they are, so if they are not fud, the drop process is going to be detected.
 
 The binder itself is fud.
+
+
+![gui](https://raw.githubusercontent.com/MagicianMido32/Java-exe-to-jar-multi-file-binder-FUD/master/1.PNG)
+
+![gui](https://raw.githubusercontent.com/MagicianMido32/Java-exe-to-jar-multi-file-binder-FUD/master/2.PNG)
